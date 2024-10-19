@@ -1,4 +1,7 @@
 # Typical Arrays Problems
+## Rolling Scopes Task
+
+![image](https://github.com/user-attachments/assets/e6e58e2e-b2d7-432b-83ba-7f75a7cbe845)
 
 ## Task
 There are a few typical problems while you working with arrays, and your goal is to solve it.
