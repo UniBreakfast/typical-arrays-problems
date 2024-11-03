@@ -1,4 +1,5 @@
-# Typical Arrays Problems
+# [Typical Arrays Problems](https://github.com/UniBreakfast/typical-arrays-problems)
+
 ## Rolling Scopes Task
 
 ![image](https://github.com/user-attachments/assets/e6e58e2e-b2d7-432b-83ba-7f75a7cbe845)
